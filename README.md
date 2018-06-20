@@ -1,2 +1,2 @@
-# java_to_cpp
-School exercises we had in java, done in cpp
+# Java to cpp
+School exercises initially for java, done in cpp
